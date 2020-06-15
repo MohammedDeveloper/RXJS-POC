@@ -1,0 +1,18 @@
+{
+  "name": "rxjs-poc",
+  "version": "1.0.0",
+  "description": "RxJS proof of concepts - Observables, Promise, Functions, Generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Mohammed Rafi Kaleem",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
